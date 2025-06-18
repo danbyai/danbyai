@@ -39,7 +39,7 @@ My dream is to create systems that are:
 ## 🌏 About Me
 
 📍 Logan, Brisbane, Australia 🇦🇺  
-📧 joshuadanby@icloud.com | jdcoding@gmail.com  
+📧 joshuadanby@icloud.com | jdanbycoding@gmail.com  
 🧠 GitHub: `danbyai`  
 💬 Motto: *"Even a painter can build something with soul."*
 
