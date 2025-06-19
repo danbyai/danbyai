@@ -32,8 +32,7 @@ My dream is to create systems that are:
 
 ## 📷 Visual Roadmap
 
-![JARVIS Meta Build Roadmap](https://raw.githubusercontent.com/danbyai/jarvis-meta-showcase/main/roadmap.png)
-
+![JARVIS Meta Build Roadmap](https://github.com/danbyai/jarvis-meta-showcase/blob/main/roadmap.png?raw=true)
 
 ---
 
